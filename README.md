@@ -21,6 +21,14 @@ The rest is the same as Bitcoin.
 For more information, as well as an immediately useable, binary version of
 the NDACOIN client sofware, see http://www.ndacoin.io.
 
+Important Links 
+----------------
+
+Github: https://github.com/ndacoin/ndacoin
+Wallets Linux: http://www.ndacoin.io/#download
+Wallets Windows: http://www.ndacoin.io/#download
+Block Explorers: http://explorer.ndacoin.io/
+
 License
 -------
 
